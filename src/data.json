@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "firstName": "Nilesh",
+        "middleName": "",
+        "lastName": "Kumar",
+        "email": "nilesh.kumar@sourcefuse.com",
+        "phone": "+916394716607",
+        "role": "Super Admin",
+        "address": "Hardoi, Uttar Pradesh"
+    },
+    {
+        "id": 2,
+        "firstName": "Ajay",
+        "middleName": "",
+        "lastName": "Prajapati",
+        "email": "ajay.prajapati@sourcefuse.com",
+        "phone": "+917054846285",
+        "role": "Admin",
+        "address": "Lucknow, Uttar Pradesh"
+    },
+    {
+        "id": 3,
+        "firstName": "Shobhit",
+        "middleName": "",
+        "lastName": "Gupta",
+        "email": "shobhit.gupta@gmail.com",
+        "phone": "+919876543210",
+        "role": "Subscriber",
+        "address": "Hardoi, Uttar Pradesh"
+    },
+    {
+        "id": 4,
+        "firstName": "Ayush",
+        "middleName": "",
+        "lastName": "Shankhwar",
+        "email": "ayush.shankhwar@gmail.com",
+        "phone": "+919786354132",
+        "role": "Subscriber",
+        "address": "Shahjahanpur, Uttar Pradesh"
+    },
+    {
+        "id": 5,
+        "firstName": "Akash",
+        "middleName": "",
+        "lastName": "Pal",
+        "email": "akash.pal@gmail.com",
+        "phone": "+919876534132",
+        "role": "Subscriber",
+        "address": "Lucknow, Uttar Pradesh"
+    },
+    {
+        "id": 6,
+        "firstName": "Dishant",
+        "iddleName": "",
+        "lastName": "Kannaujiya",
+        "email": "dishant.kannaujiya@gmail.com",
+        "phone": "+919786345382",
+        "role": "Subscriber",
+        "address": "Sitapur, Uttar Pradesh"
+    },
+    {
+        "id": 7,
+        "firstName": "Shubham",
+        "middleName": "",
+        "lastName": "Srivastava",
+        "email": "shubham.srivastava@gmail.com",
+        "phone": "+919786354132",
+        "role": "Subscriber",
+        "address": "Bihar"
+    },
+    {
+        "id": 8,
+        "firstName": "Aaditya",
+        "middleName": "Ranjan",
+        "lastName": "Srivastava",
+        "email": "aaditya.srivastava@gmail.com",
+        "phone": "+919786354132",
+        "role": "Subscriber",
+        "address": "Lucknow, Uttar Pradesh"
+    },
+    {
+        "id": 9,
+        "firstName": "Siddharth",
+        "middleName": "Singh",
+        "lastName": "Chauhan",
+        "email": "siddharth.chauhan@gmail.com",
+        "phone": "+919786354132",
+        "role": "Subscriber",
+        "address": "Hardoi, Uttar Pradesh"
+    }
+]
